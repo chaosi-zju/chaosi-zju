@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m chaosi-zju
+### Hey，I’m chaosi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 welcome, you are ![](https://moe-counter.glitch.me/get/@:chaosi-zju?theme=gelbooru) visitor.
 
@@ -13,8 +13,8 @@ welcome, you are ![](https://moe-counter.glitch.me/get/@:chaosi-zju?theme=gelboo
 
 ### 🏆 my github stats
 
-|![](https://github-readme-stats.vercel.app/api?username=chaosi-zju&theme=buefy&show_icons=true)|![chaosi-zju's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaosi-zju&layout=compact&hide_border=true&langs_count=10)|
-|-|-|
+|![](https://github-readme-stats.vercel.app/api?username=chaosi-zju&theme=buefy&show_icons=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=HenryJi529)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaosi-zju&layout=compact&langs_count=8)|
+|-|-|-|
 
 
 <!--
