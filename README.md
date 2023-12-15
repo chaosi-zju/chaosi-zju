@@ -13,9 +13,8 @@ welcome, you are ![](https://moe-counter.glitch.me/get/@:chaosi-zju?theme=gelboo
 
 ### 🏆 my github stats
 
-|![](https://github-readme-stats.vercel.app/api?username=chaosi-zju&theme=buefy&show_icons=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=HenryJi529)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaosi-zju&layout=compact&langs_count=8)|
-|-|-|-|
-
+|![](https://github-readme-stats.vercel.app/api?username=chaosi-zju&theme=buefy&show_icons=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=HenryJi529)|
+|-|-|
 
 <!--
 **chaosi-zju/chaosi-zju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
